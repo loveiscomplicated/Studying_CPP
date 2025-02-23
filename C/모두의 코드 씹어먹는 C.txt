@@ -15,3 +15,7 @@ https://modoocode.com/231
 PDF: (모두의 코드 C++) https://onedrive.live.com/?id=9B8050C0B4E95BDB%2131225&cid=9B8050C0B4E95BDB
 
 (교재) The C++ programming language 
+
+
+윈도우에서 C/C++ vscode setting
+https://basiclike.tistory.com/360
