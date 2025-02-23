@@ -1,0 +1,17 @@
+씹어먹는 C 언어 시작하기
+https://modoocode.com/231
+(교재) The C programming language
+
+
+
+
+이렇게 C에 대한 내용을 숙지한 다음에 C++로 넘어가기
+
+
+
+
+씹어먹는 C++ 언어 시작하기 
+웹사이트: https://modoocode.com/135 
+PDF: (모두의 코드 C++) https://onedrive.live.com/?id=9B8050C0B4E95BDB%2131225&cid=9B8050C0B4E95BDB
+
+(교재) The C++ programming language 
