@@ -2,6 +2,8 @@
 https://modoocode.com/231
 (교재) The C programming language
 
+(동영상 강의) 29살의 C 언어
+https://www.youtube.com/playlist?list=PLLcbGhhl4sQBXgdQmTi20y_iVT2tl98lV&si=-o9HvvTjJNXGOrrC
 
 
 
