@@ -1,10 +1,14 @@
-# include <iostream>
+#include <iostream>
 using namespace std;
 
-const float pi = 3.14;
-
 int main(){
-    cout << "Hello World!" << endl;
-    cout << pi << endl;
+    cout << "enter your integer" << endl;
+    int x;
+    cin >> x;
+    if (x % 2 == 0) {
+        cout << "even" << endl;
+    } else {
+        cout << "odd" << endl;
+    }
     return 0;
 }
